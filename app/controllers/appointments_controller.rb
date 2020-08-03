@@ -1,4 +1,3 @@
-
 class AppointmentsController < ApplicationController
 
 def index
